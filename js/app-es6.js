@@ -1,4 +1,4 @@
-(function() {
+(function () {
 	const header = document.querySelector('.header');
 	window.onscroll = () => {
 		if (window.pageYOffset > 50) {
@@ -10,7 +10,7 @@
 }());
 
 // Burger handler
-(function(){
+(function () {
 	const burgerItem = document.querySelector('.burger');
 	const menu = document.querySelector('.header_nav');
 	const menuCloseItem = document.querySelector('.header_nav-close');
