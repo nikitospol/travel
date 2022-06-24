@@ -524,7 +524,7 @@ img {
 	line-height: 24px;
 	color: white;
 	padding-right: 20px;
-	background: url(/images/svg/like.svg) no-repeat right center;
+	background: url(./images/svg/like.svg) no-repeat right center;
 	margin-right: 14px;
 }
 .top_card-comments {
@@ -533,7 +533,7 @@ img {
 	line-height: 24px;
 	color: white;
 	padding-right: 23px;
-	background: url(/images/svg/comments.svg) no-repeat right center;
+	background: url(./images/svg/comments.svg) no-repeat right center;
 }
 .top_card-desc {
 	font-size: 16px;
